@@ -1,2 +1,2 @@
 # linear-model-just-with-numpy
-Binary classifier using only NumPy
+Simple linear regression model using only NumPy

@@ -1,2 +1,2 @@
 # linear-model-just-with-numpy
-Simple linear regression model using only NumPy
+Simple linear regression model implementation using only NumPy
